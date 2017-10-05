@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20" started-at="2017-10-05T11:29:22Z" finished-at="2017-10-05T11:29:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20" started-at="2017-10-05T11:29:22Z" finished-at="2017-10-05T11:29:22Z">
+      <class name="com.yourcompany.JenkinsTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.yourcompany.JenkinsTest@13a5fe33]" name="beforeMethod" is-config="true" duration-ms="10" started-at="2017-10-05T16:59:22Z" finished-at="2017-10-05T16:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.yourcompany.JenkinsTest@13a5fe33]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-10-05T16:59:22Z" finished-at="2017-10-05T16:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.yourcompany.JenkinsTest@13a5fe33]" name="f" duration-ms="0" started-at="2017-10-05T16:59:22Z" finished-at="2017-10-05T16:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.yourcompany.JenkinsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
